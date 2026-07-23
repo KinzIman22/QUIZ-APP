@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": ["<link>", "<a>", "<href>", "<url>"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is not a JavaScript data type?",
+    "options": ["String", "Boolean", "Float", "Undefined"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": ["class", "style", "font", "id"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'app.js'?",
+    "options": ["<script href='app.js'>", "<script name='app.js'>", "<script src='app.js'>", "<script file='app.js'>"],
+    "correctIndex": 2
+  }
+]
+
