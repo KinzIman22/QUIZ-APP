@@ -3,7 +3,9 @@
 A simple and interactive **Web Quiz Application** built using **HTML, CSS, JavaScript, and JSON**. The application loads quiz questions from a JSON file, allows users to answer multiple-choice questions, evaluates responses, highlights correct and incorrect answers, and displays the final score.
 
 ---
-#Live demo
+#Live demo:
+
+https://questioneries-quiz-javascript.netlify.app/
 
 ## 📌 Project Overview
 
